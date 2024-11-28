@@ -1,5 +1,4 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Konkamon Funsuk (Ploy)
-Hi ![](<iframe src="https://giphy.com/embed/Wj7lNjMNDxSmc" width="480" height="350" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc">via GIPHY</a></p>)I am Konkamon Funsuk (Ploy)
 ==============================================================================================================================================
 
 Front-End Developer
