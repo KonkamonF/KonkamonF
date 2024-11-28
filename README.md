@@ -4,11 +4,11 @@ Hello ! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 Front-End Developer
 -------------------
 
-Certificate Software Park Codecamp #18 Full-Stack JavaScript Developer | Javascript, React
+Certificate Software Park Codecamp #18 Full-Stack JavaScript Developer | JavaScript, React
 
 
-* 📍  I'm based in Bangkok Thailand
-* 📬  You can contact me at [konkamonfungsuk@gmail.com](mailto:konkamonfungsuk@gmail.com)
+ 📍  I'm based in Bangkok Thailand
+ 📬  You can contact me at [konkamonfungsuk@gmail.com](mailto:konkamonfungsuk@gmail.com)
 
 ### Skills
 
