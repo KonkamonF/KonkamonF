@@ -13,7 +13,7 @@ Certificate Software Park Codecamp #18 Full-Stack JavaScript Developer | JavaScr
  
  📬  You can contact me at [konkamonfungsuk@gmail.com](mailto:konkamonfungsuk@gmail.com)
 
-### 🛠️ Skills
+### 🛠️ My Skills
 
 
 <p align="center">
@@ -23,7 +23,7 @@ Certificate Software Park Codecamp #18 Full-Stack JavaScript Developer | JavaScr
 </p>
 
 
-### 📽 Socials
+### 📽 My Socials
 
 <p align="center"> <a href="https://discord.com/users/ployvaaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/KonkamonF" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
