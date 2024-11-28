@@ -7,9 +7,8 @@ Front-End Developer
 Certificate Software Park Codecamp #18 Full-Stack JavaScript Developer | Javascript, React
 
 
-* 
-  I'm based in Bangkok Thailand
-* ✉️  You can contact me at [konkamonfungsuk@gmail.com](mailto:konkamonfungsuk@gmail.com)
+* 📍  I'm based in Bangkok Thailand
+* 📬  You can contact me at [konkamonfungsuk@gmail.com](mailto:konkamonfungsuk@gmail.com)
 
 ### Skills
 
